@@ -11,7 +11,7 @@
 
 # Contact
 
-> `Web Site :`   **[personel.lunexdev.ml](https://personel.lunexdev.ml)**
+> `Web Site :`   **[lunexdev.ml](https:/lunexdev.ml)**
 
 > `E Mail :`  **lunexdeveloper@gmail.com**
 
