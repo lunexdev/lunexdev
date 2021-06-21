@@ -1,8 +1,19 @@
-# İletişim
+# About Me
 
-**Discord** : [Lunex#4569](https://discord.com/users/817381153211809802) | **E-Mail**  : lunexbey@gmail.com | **Youtube** : [Lunex](https://www.youtube.com/channel/UCCXwusTfpTLLplwziVBZBMg)
+**My Name is Lunex.**
 
-#  İstatistik
+**I'm a junior developer dealing with node js and python!**
 
-<img src="https://github-readme-stats.vercel.app/api?username=lunexdev&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunexdev&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+#  Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=lunexdev&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunexdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
+
+# Contact
+
+> `Web Site :`   **[personel.lunexdev.ml](https://personel.lunexdev.ml)**
+
+> `E Mail :`  **lunexdeveloper@gmail.com**
+
+> `İnstagram :`  **[lunexdev](https://instagram.com/lunexdev)**
+
