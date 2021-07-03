@@ -11,9 +11,9 @@
 
 # Contact
 
-> `Web Site :`   **[lunexdev.ml](https://lunexdev.ml)**
+- `Web Site`   **[lunexdev.ml](https://lunexdev.ml)**
 
-> `E Mail :`  **lunexdeveloper@gmail.com**
+- `E Mail`  **lunexdeveloper@gmail.com**
 
-> `İnstagram :`  **[lunexdev](https://instagram.com/lunexdev)**
+- `İnstagram`  **[lunexdev](https://instagram.com/lunexdev)**
 
