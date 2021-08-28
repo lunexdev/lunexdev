@@ -1,4 +1,5 @@
 ## I'm Lunex <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30">
+  <img src="https://komarev.com/ghpvc/?username=lunexdev&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
   
 # Contact
   
@@ -13,4 +14,3 @@
 #  Stats
 <img src="https://github-readme-stats.vercel.app/api?username=lunexdev&show_icons=true&theme=react" width="%100" height="150px" alt="stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunexdev&theme=react&layout=compact" width="%100" height="150px" alt="stats"/>
-   
